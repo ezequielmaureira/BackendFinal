@@ -12,6 +12,7 @@ import java.util.List;
 @RestController
 @CrossOrigin(origins="https://porfolioezequiel.web.app")
 
+
 public class UsuarioDatosController {
 
    @Autowired
