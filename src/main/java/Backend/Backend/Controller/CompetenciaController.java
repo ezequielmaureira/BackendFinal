@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 @RestController
-@CrossOrigin(origins="http://porfolioezequiel.firebaseapp.com")
+@CrossOrigin(origins="http://www.porfolioezequiel.firebaseapp.com")
 
 public class CompetenciaController {
 
